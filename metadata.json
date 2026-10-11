@@ -1,0 +1,6 @@
+{
+  "name": "HOMIE LIBRARY",
+  "description": "A collection of moments worth keeping. A personal photo gallery archive dedicated to memories, moments, photography, and shared experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
